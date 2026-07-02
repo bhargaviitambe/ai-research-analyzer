@@ -7,6 +7,6 @@ langchain
 langchain-community
 chromadb
 sentence-transformers
-google-generativeai
+google-genai
 python-dotenv
 pydantic
